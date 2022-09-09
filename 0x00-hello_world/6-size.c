@@ -1,4 +1,14 @@
 #include <stdio.h>
+
+/**
+ * main - print the size of various types
+ *
+ * Description: prints the size of various types on the computer it is compiled
+ * and run on
+ *
+ * Return: Always o (Success)
+ */
+
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", (int) sizeof(char));
