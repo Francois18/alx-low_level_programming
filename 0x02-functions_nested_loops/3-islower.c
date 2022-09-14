@@ -7,16 +7,16 @@
  * Return: 1 if lowercase
  */
 int _islower(int c)
-{	
-	int cases;
+{
+	int response;
 
-	cases = islower(c);		
-	if (cases > 0)
+	response = islower(c);
+	if (response > 0)
 	{
 		return (1);
 	}
 	else
 	{
 		return (0);
-	}	
+	}
 }
