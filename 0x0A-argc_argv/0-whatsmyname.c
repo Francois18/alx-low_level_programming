@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - function
- * @args: parameter
+ * @argc: parameter
  * @argv: parameter
  * Return:int
 */
