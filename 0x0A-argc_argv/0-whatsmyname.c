@@ -3,7 +3,7 @@
  * main - function
  * @args: parameter
  * @argv: parameter
- * return int
+ * Return:int
 */
 int main(__attribute__((unused)) int argc, char *argv[])
 {
