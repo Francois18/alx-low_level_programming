@@ -11,6 +11,6 @@ void *malloc_checked(unsigned int b)
 
 	variable = malloc(b);
 	if (variableSpace == NULL)
-		return (98);
+		return (98);r
 	return (variable);
 }
