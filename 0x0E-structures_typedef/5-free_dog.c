@@ -1,6 +1,7 @@
 #include "dog.h"
 #include <stdlib.h>
 #include <stdlib.h>
+#include "main.h"
 /**
  * free_dog - function declaration
  *@d: parameter
