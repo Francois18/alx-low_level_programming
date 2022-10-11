@@ -5,7 +5,7 @@
 /**
  * _strdup - returns a pointer to a newly allocated space in memory
  * @str: string parameter
- * Return: pointer 
+ * Return: pointer
  */
 
 char *_strdup(char *str)
@@ -24,7 +24,7 @@ char *_strdup(char *str)
 		length++;
 	}
 
-	arr = (char*) malloc(length * sizeof(char) + 1);
+	arr = (char *) malloc(length * sizeof(char) + 1);
 	if (arr == NULL)
 		return (NULL);
 
