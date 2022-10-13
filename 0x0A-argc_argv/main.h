@@ -1,1 +1,1 @@
-int main(__attribute__((unused))int args, chat *agrv[]);
+int main(__attribute__((unused))int args, char *agrv[]);

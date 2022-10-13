@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * main - check the code
  *
@@ -7,6 +5,9 @@
  */
 int main(void)
 {
-    print_alphabet();
+    int n;
+
+    n = _strlen_recursion("Corbin Coleman");
+    printf("%d\n", n);
     return (0);
 }
