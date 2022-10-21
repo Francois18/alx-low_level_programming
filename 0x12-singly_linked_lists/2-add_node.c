@@ -4,10 +4,6 @@
  * _strlen - returns length of string
  * @s: string paramter
  * Return: length of string
- * add_node - adds a new node
- * @head: head of linkedlist
- * @str: string to be used as data for node
- * Return: number of elements
  */
 
 int _strlen(const char *s)
@@ -21,7 +17,12 @@ int _strlen(const char *s)
 	}
 	return (len);
 }
-
+/**
+ *add_node - adds a new node
+ *@head: head of link lists
+ *@str: string to be used as datre for node
+ * Return: return elemenet
+ */
 
 list_t *add_node(list_t **head, const char *str)
 {

@@ -1,9 +1,8 @@
 #include "lists.h"
-/*
- *list_len - fuction returns list of elements
+/**
+ * list_len - fuction returns list of elements
  *
  *@h: head paramter node
- *
  * Return: elements
  */
 
