@@ -1,1 +1,1 @@
-  # 0x1B. C Low level programming Language - Sorting algorithms & Big O
+ # C - Sorting algorithms & Big O
